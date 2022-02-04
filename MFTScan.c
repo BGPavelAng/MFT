@@ -1,3 +1,8 @@
+;//////////Codigo por Belial Grimoire////////////
+;/////bgpavelang.github.io//////
+;///Gracias por credito a mi trabajo/////
+;//////////////////////////////////////////
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <Windows.h>
