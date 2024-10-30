@@ -1,6 +1,6 @@
 ;//////////Codigo por Belial Grimoire////////////
 ;/////bgpavelang.github.io//////
-;///Gracias por credito a mi trabajo/////
+;///Gracias por darle credito a mi trabajo/////
 ;//////////////////////////////////////////
 
 #include <stdio.h>
